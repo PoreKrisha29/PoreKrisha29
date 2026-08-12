@@ -8,18 +8,17 @@
 </p>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PoreKrisha29&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishapore)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishapore2006@gmail.com)
 
-## 🌟 Fun zone
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+## 🌟 Fun Zone
 
+<div align="center">
+
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+</div>
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
@@ -45,5 +44,13 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=PoreKrisha29&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br />
-![](https://streak-stats.demolab.com/?user=PoreKrisha29&theme=gruvbox&hide_border=false)<br />
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=PoreKrisha29&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PoreKrisha29&theme=tokyonight&hide_border=true" />
+</p>
+
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PoreKrisha29&theme=tokyo-night&hide_border=true&area=true" />
+</p>
