@@ -1,14 +1,15 @@
 <!-- Typing SVG -->
 <p align="center">
-    <a href="https://github.com/PoreKrisha29">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Krisha...;Java+%7C+Python+%7C+DSA+Enthusiast;Passionate+about+building+impactful+projects+%F0%9F%9A%80;Welcome+to+my+GitHub+Profile!"
-            alt="Typing SVG" />
-    </a>
+  <a href="https://github.com/PoreKrisha29">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Krisha...;Java+%7C+Python+%7C+DSA+Enthusiast;Passionate+about+building+impactful+projects+%F0%9F%9A%80;Welcome+to+my+GitHub+Profile!"
+      alt="Typing SVG" />
+  </a>
 </p>
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PoreKrisha29&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=7)
+![](https://github-profile-trophy.vercel.app/?username=PoreKrisha29&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishapore)
@@ -16,11 +17,7 @@
 
 ## 🌟 Fun zone
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PoreKrisha29/PoreKrisha29/output/github-user-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PoreKrisha29/PoreKrisha29/output/github-user-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PoreKrisha29/PoreKrisha29/output/github-user-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 
@@ -47,14 +44,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
 # 📊 GitHub Stats:
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=PoreKrisha29&theme=gruvbox&hide_border=false" alt="GitHub Streak Stats" /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoreKrisha29&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false" alt="Most Used Languages" />
-</p>
-
----
-
-# 🔥 Streak Stats
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=PoreKrisha29&theme=onedark&hide_border=false" alt="Streak Stats" />
-</p>
+![](https://github-readme-stats.shion.dev/api?username=PoreKrisha29&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br />
+![](https://streak-stats.demolab.com/?user=PoreKrisha29&theme=gruvbox&hide_border=false)<br />
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=PoreKrisha29&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
